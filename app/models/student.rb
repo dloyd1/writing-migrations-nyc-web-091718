@@ -4,18 +4,6 @@ class Student < ActiveRecord::Base
       create_table :artists do |t|
         t.string :name
       end
-
-
-
-
-
-
-
-
-
-
-
-
-
+  end
 
 end
